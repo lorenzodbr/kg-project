@@ -1,0 +1,482 @@
+entity_type,entity_id,entity_subcode,entity_name,nil_id,nil_name,nearest_stop_id,nearest_stop_name,nearest_stop_distance_m,nearest_stop_wheelchair_boarding,has_stop_within_300m,has_stop_within_500m
+Hospital,30910,,OSPEDALE FATEBENEFRATELLI E OFTALMICO -,2,BRERA,11605,p.le principessa clotilde (osp. fatebenefratelli),68.67,2,true,true
+Hospital,30925,,FONDAZ.IRCCS CA' GRANDA - OSPEDALE MAGGI,1,DUOMO,11795,via f. sforza via andreani,25.90,1,true,true
+Hospital,30124,,ISTITUTO STOMATOLOGICO ITALIANO - MILANO,4,GUASTALLA,11774,via lamarmora,80.64,1,true,true
+Hospital,30911,,ISTITUTO ORTOPEDICO GAETANO PINI - MILAN,5,PORTA VIGENTINA - PORTA LODOVICA,11754,crocetta m3,202.14,1,true,true
+Hospital,30936,3,IRCCS OSPEDALE CAPITANIO,5,PORTA VIGENTINA - PORTA LODOVICA,11472,via s. sofia via s. senatore,180.39,1,true,true
+Hospital,30367,,OSPEDALE S. GIUSEPPE - MILANO,7,MAGENTA - S. VITTORE,17779,s.ambrogio m2 m4,31.67,,true,true
+Hospital,30912,,P.O. CENTRO TRAUMATOLOGICO ORTOPEDICO -,15,BICOCCA,13604,v.le sarca via bignami,40.79,2,true,true
+Hospital,30950,,SAN RAFFAELE TURRO,19,PADOVA - TURRO - CRESCENZAGO,15930,q.re turro,7.96,1,true,true
+Hospital,30100,,CASA DI CURA IGEA - MILANO,26,XXII MARZO,17270,v.le piceno,222.70,,true,true
+Hospital,30057,,OSPEDALE M. MELLONI - MILANO,26,XXII MARZO,17270,v.le piceno,150.51,,true,true
+Hospital,30097,,ISTITUTO CLINICO CITTA' STUDI - MILANO,22,CITTA' STUDI,12483,v.le lombardia via vallazze,100.43,2,true,true
+Hospital,30935,,IRCCS S. RAFFAELE - MILANO,18,CIMIANO - ROTTOLE - Q.RE FELTRE,13528,ospedale san raffaele,15.44,2,true,true
+Hospital,30934,,"CENTRO CARDIOLOGICO ""FOND. MONZINO"" - MI",31,MONLUE' - PONTE LAMBRO,12905,ospedale monzino,11.29,2,true,true
+Hospital,30949,,IRCCS IST. SCIENTIFICO DI RIABILITAZIONE,31,MONLUE' - PONTE LAMBRO,15967,via camaldoli via rilke,14.28,1,true,true
+Hospital,30941,,ISTITUTO EUROPEO DI ONCOLOGIA-MILANO,85,PARCO DELLE ABBAZIE,11700,via ripamonti (ist. europeo oncologia),35.78,,true,true
+Hospital,30914,,OSPEDALE S. PAOLO - MILANO,46,BARONA,10776,ospedale san paolo,68.68,1,true,true
+Hospital,30936,2,IST.AUXOLOGICO ITAL.-I.S. S.MICHELE-MILA,68,PAGANO,11246,via ariosto,14.99,2,true,true
+Hospital,30946,2,IST.CLINICO S.SIRO SPA-MILANO,57,SAN SIRO,17360,segesta m5,75.66,,true,true
+Hospital,30110,,CASA DI CURA S. GIOVANNI - MILANO,60,STADIO - IPPODROMI,17471,san siro ippodromo m5,164.59,,true,true
+Hospital,30937,,IRCCS S.M.NASCENTE-FOND.DON C.GNOCCHI-MI,60,STADIO - IPPODROMI,10398,via capecelatro (ist. don gnocchi),28.41,1,true,true
+Hospital,30936,1,IST.AUXOLOGICO ITALIANO-I.S. S.LUCA-MILA,58,DE ANGELI - MONTE ROSA,10627,p.le brescia (osp. san luca),42.34,1,true,true
+Hospital,30103,,CASA DI CURA PALAZZOLO-FOND.DON GNOCCHI,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,17775,istituto palazzolo,31.99,,true,true
+Hospital,30915,,OSPEDALE S. CARLO BORROMEO - MILANO,56,FORZE ARMATE,10246,via pio ii (ospedale s.carlo),144.94,1,true,true
+Hospital,30056,,PRESIDIO OSPED. V. BUZZI - MILANO,69,SARPI,GERUSALEMME,GERUSALEMME,153.06,,true,true
+Hospital,30946,1,IRCCS OSPEDALE GALEAZZI SANT'AMBROGIO,73,CASCINA MERLATA,15488,Casa di Reclusione (Bollate),209.29,,true,true
+Hospital,30916,,OSPEDALE L. SACCO - MILANO,74,ROSERIO,14970,roserio (ospedale sacco),33.88,2,true,true
+Hospital,30121,,CASA DI CURA S. PIO X - MILANO,11,ISOLA,13097,via lario via nava,149.28,1,true,true
+Hospital,30378,,CENTRO CLINICO NEMO - FOND. SERENA - MIL,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,11668,niguarda (ospedale),87.06,2,true,true
+Hospital,30913,,OSPEDALE CA' GRANDA-NIGUARDA - MILANO,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,11668,niguarda (ospedale),87.06,2,true,true
+Pharmacy,MI2001,,BANDI SRL,20,LORETO - CASORETTO - NOLO,12262,rovereto m1,26.56,2,true,true
+Pharmacy,MI0920,,A.F.M. N. 64,12,MACIACHINI - MAGGIOLINA,11955,via abbazia p.le istria,34.50,1,true,true
+Pharmacy,MI0048,,COOP.FARM.CANONICA,69,SARPI,11307,v.le elvezia (arena),30.45,2,true,true
+Pharmacy,MI1957,,BELTRADE SRL,1,DUOMO,11502,duomo m1 m3,108.27,1,true,true
+Pharmacy,MI1637,,PROCACCINI SRL DI HIPPO 45 FARMA SRL,69,SARPI,11297,via procaccini via lomazzo,46.86,1,true,true
+Pharmacy,MI2038,,LAFARMACIA.PONTENUOVO SRL,17,ADRIANO,12791,via p.te nuovo via asiago,10.17,2,true,true
+Pharmacy,MI0642,,A.F.M. N. 01,30,TALIEDO - MORSENCHIO - Q.RE FORLANINI,16084,v.le ungheria,39.51,2,true,true
+Pharmacy,MI1875,,ALLEANZA DOTT. BERCHI DI FACCINI TIZIANA E C SAS,1,DUOMO,11482,carrobbio,21.97,1,true,true
+Pharmacy,MI1381,,GRILLI SAS DELLA DR.SSA LUISA GRILLI,57,SAN SIRO,10621,via dolci via ricciarelli,50.74,2,true,true
+Pharmacy,MI1818,,MEDA SNC,43,TIBALDI,11164,via meda via spaventa,33.85,1,true,true
+Pharmacy,MI1789,,GENOVA SRL,6,PORTA TICINESE - CONCA DEL NAVIGLIO,11200,c.so genova via ariberto,131.49,1,true,true
+Pharmacy,MI1502,,CORSICO,27,PTA ROMANA,12045,p.za buozzi,23.00,1,true,true
+Pharmacy,MI0684,,A.F.M. N. 28,20,LORETO - CASORETTO - NOLO,12530,via teodosio via casoretto,127.69,2,true,true
+Pharmacy,MI1766,,ROMA SNC,27,PTA ROMANA,12045,p.za buozzi,88.51,1,true,true
+Pharmacy,MI2015,,PLINIO SAS DR. BERNINI EDOARDO,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12190,via plinio p.le bacone,16.37,2,true,true
+Pharmacy,MI2026,,HIPPO 80 FARMA SRL -FARMACIA ABRUZZI,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,17395,v.le abruzzi via plinio,27.34,,true,true
+Pharmacy,MI2010,,PISANI 26 SRL,10,STAZIONE CENTRALE - PONTE SEVESO,11889,stazione centrale p.za duca d'aosta m2 m3,107.62,1,true,true
+Pharmacy,MI0703,,A.F.M. N. 34,35,LODI - CORVETTO,12962,via marochetti via avezzana,68.35,1,true,true
+Pharmacy,MI1745,,ANGOLO DELLA SALUTE SRL,69,SARPI,11298,via canonica via cagnola,146.54,1,true,true
+Pharmacy,MI1374,,CERTOSA SAS,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10674,via gallarate via aniene,85.30,1,true,true
+Pharmacy,MI1417,,SAN CELSO,1,DUOMO,11465,s.sofia m4,28.59,1,true,true
+Pharmacy,MI1870,,SEMPIO SNC,42,STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA,11139,via montegani v.le da cermenate,38.88,1,true,true
+Pharmacy,MI0897,,A.F.M. N. 48,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,17273,p.za ascoli,21.87,,true,true
+Pharmacy,MI1827,,TADDEI SNC,12,MACIACHINI - MAGGIOLINA,11658,via murat via cufra,240.21,1,true,true
+Pharmacy,MI1840,,MINERVA DR. MARCEAU SRL,27,PTA ROMANA,15296,via crema,23.56,2,true,true
+Pharmacy,MI1804,,CERINI SNC,7,MAGENTA - S. VITTORE,11255,via venti settembre,107.59,2,true,true
+Pharmacy,MI0664,,A.F.M. N. 22,61,QUARTO CAGNINO,10242,via marx via cannizzaro,44.50,1,true,true
+Pharmacy,MI1440,,MONFORTE SNC,1,DUOMO,11815,via s. damiano c.so monforte,55.36,2,true,true
+Pharmacy,MI1164,,SOCIALE,19,PADOVA - TURRO - CRESCENZAGO,12540,turro m1,11.46,2,true,true
+Pharmacy,MI1751,,NIZZA DI CLUB SALUTE SRL,12,MACIACHINI - MAGGIOLINA,11659,nizza,22.85,1,true,true
+Pharmacy,MI2052,,PIAZZA GRAMSCI,69,SARPI,11295,via canonica via sarpi,29.19,1,true,true
+Pharmacy,MI1989,,V ALPINI SAS DI PERRECA DR.SSA PATRIZIA,7,MAGENTA - S. VITTORE,11251,l.go quinto alpini,35.53,2,true,true
+Pharmacy,MI0694,,A.F.M. N. 37,51,PORTA MAGENTA,10876,p.za vesuvio,151.91,1,true,true
+Pharmacy,MI1903,,STAZIONE CENTRALE FARMA ACQUISITION SRL,10,STAZIONE CENTRALE - PONTE SEVESO,11889,stazione centrale p.za duca d'aosta m2 m3,169.10,1,true,true
+Pharmacy,MI0054,,COOP.FARM.PLINIO,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12186,lima m1,28.01,2,true,true
+Pharmacy,MI1848,,PALAZZOLO,4,GUASTALLA,11825,v.le monte nero via bergamo,59.91,1,true,true
+Pharmacy,MI1926,,COLONNE DI SAN LORENZO DOTT.SSA STRAZIOTA CATERINA & C SNC,1,DUOMO,20126,de amicis - c.so di p.ta ticinese,93.42,,true,true
+Pharmacy,MI1692,,SCHIAVIO SNC,1,DUOMO,11231,l.go d'ancona,56.90,2,true,true
+Pharmacy,MI1988,,MADIA SAS DEL DR. MADIA DARIO,11,ISOLA,11897,zara m3 m5,10.24,1,true,true
+Pharmacy,MI2040,,PREMUDA SAS DEL DR. DEL GENOVESE EDOARDO MARIO VINCENZO & C.,26,XXII MARZO,12092,v.le premuda,28.57,1,true,true
+Pharmacy,MI1705,,BICOCCA DR.GANDOLFI SNC DI ALESSANDRO E MATILDE GANDOLFI,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,12318,via arezzo v.le suzzani,66.68,2,true,true
+Pharmacy,MI1722,,MONCUCCO SAS,45,MONCUCCO - SAN CRISTOFORO,11143,romolo m2,245.45,2,true,true
+Pharmacy,MI1616,,SANTA MARIA NASCENTE SNC,66,QT 8,10447,qt8 m1,144.44,2,true,true
+Pharmacy,MI0700,,A.F.M. N. 21,80,AFFORI,11375,via da seregno via astesani,118.21,2,true,true
+Pharmacy,MI1675,,TARANTINO,44,PORTA TICINESE - CONCHETTA,11198,via vigevano v.le gorizia,167.65,2,true,true
+Pharmacy,MI1621,,SCIENTIFICA,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12144,via c. morrone via modena,99.35,2,true,true
+Pharmacy,MI1975,,CANOSSA SRL,67,PORTELLO,10953,c.so sempione via arona,45.26,2,true,true
+Pharmacy,MI1507,,DEI PORTICI,52,BANDE NERE,20118,tolstoj m4,33.99,,true,true
+Pharmacy,MI1734,,AL PORTELLO SNC,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10687,v.le certosa via grosotto,29.82,1,true,true
+Pharmacy,MI0177,,EREDI DR. BRUNI CLAUDIO,2,BRERA,11556,p.za mirabello,76.07,1,true,true
+Pharmacy,MI0712,,A.F.M. N. 40,42,STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA,11102,via chiesa rossa via boifava,84.54,2,true,true
+Pharmacy,MI0654,,A.F.M. N. 05,55,BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA,10138,via bagarotti via gozzoli,17.42,1,true,true
+Pharmacy,MI1907,,DURINI FARMA ACQUISITION SRL,1,DUOMO,20244,europa,24.77,,true,true
+Pharmacy,MI1936,,MAC MAHON SRL,70,GHISOLFA,11011,via mac mahon via p. eugenio,11.91,2,true,true
+Pharmacy,MI1714,,FORMAGGIA SRL,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,11857,p.ta venezia m1,16.80,2,true,true
+Pharmacy,MI1950,,SANTA CATERINA SRL,52,BANDE NERE,10580,v.le c. da forli' via fezzan,75.63,1,true,true
+Pharmacy,MI0680,,A.F.M. N. 26,76,QUARTO OGGIARO - VIALBA - MUSOCCO,16716,via satta via pascarella,97.05,1,true,true
+Pharmacy,MI1018,,A.F.M. N. 83,16,GORLA - PRECOTTO,12564,precotto m1,32.82,2,true,true
+Pharmacy,MI1630,,SAN PAOLO SRL,18,CIMIANO - ROTTOLE - Q.RE FELTRE,12539,l.go gemito,40.93,2,true,true
+Pharmacy,MI1461,,ARCHINTO,11,ISOLA,11627,via porro lambertenghi,178.78,1,true,true
+Pharmacy,MI0252,,A.F.M. N. 43,29,ORTOMERCATO,12374,p.le cuoco,31.53,2,true,true
+Pharmacy,MI1710,,AFFORI DEL DR. LUIGI WAIFER SPAGGIARI & C. SAS,80,AFFORI,11376,via astesani via zanoli,57.35,2,true,true
+Pharmacy,MI0683,,A.F.M. N. 20,60,STADIO - IPPODROMI,16998,p.za axum (stadio meazza),69.77,2,true,true
+Pharmacy,MI2044,,SFORZA SAS DI GUARNIERI ANTONIO,48,RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO,10329,s.cristoforo m4,26.49,1,true,true
+Pharmacy,MI1205,,SAN GOTTARDO,6,PORTA TICINESE - CONCA DEL NAVIGLIO,11170,l.go mahler,51.71,2,true,true
+Pharmacy,MI1995,,ZANOTTA SAS,15,BICOCCA,15286,via pulci v.le sarca,20.31,1,true,true
+Pharmacy,MI1392,,SAN CAMILLO DEL DR.DARDANELLI GIOVANNI SNC,28,UMBRIA - MOLISE - CALVAIRATE,14870,p.le martini,38.24,2,true,true
+Pharmacy,MI1800,,ROCCHI,38,VIGENTINO - Q.RE FATIMA,11722,via ripamonti via dell'assunta,61.54,2,true,true
+Pharmacy,MI0905,,A.F.M. N. 59,10,STAZIONE CENTRALE - PONTE SEVESO,17358,v.le lunigiana,75.59,,true,true
+Pharmacy,MI2039,,RIPAMONTI SAS DI FARAM SNC DI ALBERO DUE SRL,5,PORTA VIGENTINA - PORTA LODOVICA,11766,via ripamonti via bellezza,28.49,2,true,true
+Pharmacy,MI1700,,CASARSA SRL,83,BRUZZANO,11382,via casarsa p.za fortunato,29.97,2,true,true
+Pharmacy,MI1793,,VERCESI  SAS & C.,76,QUARTO OGGIARO - VIALBA - MUSOCCO,10480,via mambretti,23.57,2,true,true
+Pharmacy,MI1899,,DE POLI SAS DR.SSA DE POLI MARIACHIARA & C,20,LORETO - CASORETTO - NOLO,12484,via porpora v.le lombardia,98.17,2,true,true
+Pharmacy,MI2019,,LAFARMACIA.GIANNONE,69,SARPI,11577,p.le baiamonti,57.68,1,true,true
+Pharmacy,MI1597,,EREDI CATALUCCI SNC,44,PORTA TICINESE - CONCHETTA,10857,ripa di p.ta ticinese via lombardini,49.33,2,true,true
+Pharmacy,MI1917,,SAN BABILA FARMA SRL,1,DUOMO,11846,c.so venezia via senato,69.75,2,true,true
+Pharmacy,MI1971,,SERENIFARMA SRL A SOCIO UNICO (EX BEATO ANGELICO),22,CITTA' STUDI,12437,via b. angelico via colombo,57.91,2,true,true
+Pharmacy,MI1898,,RUBATTINO SAS DOTT. GARELLO GIOVANNI & C,23,LAMBRATE - ORTICA,14862,via pitteri via crespi,69.63,1,true,true
+Pharmacy,MI1402,,ARIBERTO SAS,7,MAGENTA - S. VITTORE,20096,s. ambrogio m2 m4,55.49,,true,true
+Pharmacy,MI2006,,FALQUI MILANO SRL,12,MACIACHINI - MAGGIOLINA,11952,p.le istria via lussinpiccolo,78.03,2,true,true
+Pharmacy,MI2060,,DEL GARIBALDI SAS DEL DR. CANTONI REMO FABRIZIO,2,BRERA,MOSCOVA,MOSCOVA,122.84,2,true,true
+Pharmacy,MI1142,,FIORDALISI,52,BANDE NERE,10369,gelsomini m4,92.29,1,true,true
+Pharmacy,MI1659,,NUOVA INGANNI SNC,53,LORENTEGGIO,10216,via inganni via passero,95.85,1,true,true
+Pharmacy,MI1946,,SAN MICHELE SRL,51,PORTA MAGENTA,11204,coni zugna m4,34.98,2,true,true
+Pharmacy,MI2025,,SACCA SRL,56,FORZE ARMATE,10223,via f.ze armate via osteno,128.65,1,true,true
+Pharmacy,MI1915,,MONTE SANTO SRL,9,PORTA GARIBALDI - PORTA NUOVA,11861,p.le principessa clotilde (osp. fatebenefratelli),34.09,2,true,true
+Pharmacy,MI1650,,PIMPINELLI,76,QUARTO OGGIARO - VIALBA - MUSOCCO,10474,l.go boccioni,85.02,2,true,true
+Pharmacy,MI1591,,HUMANITAS,10,STAZIONE CENTRALE - PONTE SEVESO,11879,via filzi via adda,21.93,2,true,true
+Pharmacy,MI1665,,GABBIANI,2,BRERA,11562,via moscova c.so di p.ta nuova,28.76,1,true,true
+Pharmacy,MI1835,,WAGNER SRL,58,DE ANGELI - MONTE ROSA,WAGNER,WAGNER,90.42,2,true,true
+Pharmacy,MI0959,,A.F.M. N. 76,38,VIGENTINO - Q.RE FATIMA,20032,via ripamonti via chopin,22.93,,true,true
+Pharmacy,MI0911,,A.F.M. N. 61,43,TIBALDI,15374,pezzotti,72.94,1,true,true
+Pharmacy,MI0049,,COOP.FARM.PONTACCIO,2,BRERA,11545,lanza m2,63.95,1,true,true
+Pharmacy,MI1830,,OLMI SAS DEL DR. ALESSIO ALBERTO,55,BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA,10130,via ulivi via larici,109.64,1,true,true
+Pharmacy,MI1958,,CENISIO SRL,69,SARPI,11316,p.za diocleziano,119.48,1,true,true
+Pharmacy,MI0919,,A.F.M. N. 63,12,MACIACHINI - MAGGIOLINA,11660,via murat v.le marche,5.21,1,true,true
+Pharmacy,MI1165,,LAMPUGNANO,65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,15323,via cechov via natta,145.65,1,true,true
+Pharmacy,MI1190,,A.F.M. N. 84,46,BARONA,10757,via de pretis via boffalora,114.60,1,true,true
+Pharmacy,MI0926,,A.F.M. N. 69,18,CIMIANO - ROTTOLE - Q.RE FELTRE,12729,via ronchi p.za m.te titano,157.59,2,true,true
+Pharmacy,MI1359,,ITALO INGLESE SNC,17,ADRIANO,17995,q.re adriano,24.47,,true,true
+Pharmacy,MI1978,,CITTA' STUDI SRL,22,CITTA' STUDI,12672,l.go murani,16.13,1,true,true
+Pharmacy,MI1686,,LANZANI SRL,76,QUARTO OGGIARO - VIALBA - MUSOCCO,10484,via lessona via trilussa,20.33,1,true,true
+Pharmacy,MI2055,,DELLA ROGGIA,5,PORTA VIGENTINA - PORTA LODOVICA,13161,v.le toscana via vittadini,56.73,1,true,true
+Pharmacy,MI1604,,SAN GUIDO,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10469,p.le cacciatori delle alpi,33.79,,true,true
+Pharmacy,MI2061,,G. DUE SRL,65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,10108,"via cilea, 70",237.93,2,true,true
+Pharmacy,MI2014,,"MALPIGHI SNC DI GUFFANTI GIAN PAOLO, CHIARA E GIORGIO",21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,11857,p.ta venezia m1,159.52,2,true,true
+Pharmacy,MI2068,,TICINESE SNC DELLA DR.SSA CURI GINETTA,6,PORTA TICINESE - CONCA DEL NAVIGLIO,11443,p.za ventiquattro maggio,75.13,1,true,true
+Pharmacy,MI1786,,LA SAPIENZA,38,VIGENTINO - Q.RE FATIMA,11709,p.za chiaradia,50.26,1,true,true
+Pharmacy,MI1849,,TIBALDI SNC,6,PORTA TICINESE - CONCA DEL NAVIGLIO,11168,v.le tibaldi via meda,34.94,1,true,true
+Pharmacy,MI1798,,FIORE SNC DELLE DR.SSE FIORE BARBARA E SIMONA,28,UMBRIA - MOLISE - CALVAIRATE,12076,via maestri campionesi,38.88,2,true,true
+Pharmacy,MI2067,,BACONE SAS DEL DR. M. GIANOTTI,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12216,p.le bacone,8.49,2,true,true
+Pharmacy,MI0931,,A.F.M. N. 68,51,PORTA MAGENTA,DE ANGELI,DE ANGELI,98.60,2,true,true
+Pharmacy,MI0242,,ROMBON,18,CIMIANO - ROTTOLE - Q.RE FELTRE,12718,via rombon via pini,48.99,2,true,true
+Pharmacy,MI0716,,A.F.M. N. 80,58,DE ANGELI - MONTE ROSA,10525,p.le zavattari,45.42,1,true,true
+Pharmacy,MI1623,,MANCA SNC,31,MONLUE' - PONTE LAMBRO,12912,via ucelli di nemi via serrati,100.77,1,true,true
+Pharmacy,MI1639,,LESSONA,76,QUARTO OGGIARO - VIALBA - MUSOCCO,10494,via satta via lessona,90.86,1,true,true
+Pharmacy,MI1764,,CENTRO MILANO SRL,2,BRERA,CORDUSIO,CORDUSIO,16.53,2,true,true
+Pharmacy,MI1841,,AMADEO SAS,22,CITTA' STUDI,12671,via calzecchi via amadeo,51.58,2,true,true
+Pharmacy,MI0695,,A.F.M. N. 31,49,GIAMBELLINO,10559,via lorenteggio via vignoli,112.36,1,true,true
+Pharmacy,MI1920,,FIRENZE SRL,67,PORTELLO,10978,p.za firenze,119.86,2,true,true
+Pharmacy,MI1820,,NOVARA SRL,60,STADIO - IPPODROMI,10261,via novara via s. giusto,18.59,2,true,true
+Pharmacy,MI1858,,MONTENERO,4,GUASTALLA,12086,v.le monte nero via spartaco,26.81,1,true,true
+Pharmacy,MI1779,,VIALE ROMAGNA SRL,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12425,p.za ferravilla,75.15,2,true,true
+Pharmacy,MI0704,,A.F.M. N. 39,55,BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA,10147,via da baggio via q.to romano,135.50,1,true,true
+Pharmacy,MI0662,,A.F.M. N. 13,35,LODI - CORVETTO,12035,p.za bonomelli,55.07,1,true,true
+Pharmacy,MI1973,,DE MARCHI SRL,13,GRECO - SEGNANO,12270,p.za greco,87.42,1,true,true
+Pharmacy,MI0887,,A.F.M. N. 47,50,PORTA GENOVA,CONI ZUGNA,CONI ZUGNA,83.02,,true,true
+Pharmacy,MI0685,,A.F.M. N. 17,30,TALIEDO - MORSENCHIO - Q.RE FORLANINI,12615,v.le ungheria via salomone,21.19,2,true,true
+Pharmacy,MI0410,,A.F.M. N. 44,64,TRENNO,10093,p.za scolari,51.25,2,true,true
+Pharmacy,MI2051,,MILANO SETTEMBRINI,10,STAZIONE CENTRALE - PONTE SEVESO,12180,via settembrini,14.91,1,true,true
+Pharmacy,MI0899,,A.F.M. N. 57,56,FORZE ARMATE,INGANNI,INGANNI,39.04,2,true,true
+Pharmacy,MI1718,,CATTANEO,52,BANDE NERE,10567,via d'alviano via tuberose,235.41,1,true,true
+Pharmacy,MI1906,,LAFARMACIA.BONOLA SRL,65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,10114,bonola m1,91.45,1,true,true
+Pharmacy,MI0880,,A.F.M. N. 54,35,LODI - CORVETTO,12348,p.le bologna,77.54,1,true,true
+Pharmacy,MI1803,,ABBAZIA DI CHIARAVALLE & C.,35,LODI - CORVETTO,12026,via comacchio p.za angilberto ii,58.76,1,true,true
+Pharmacy,MI1949,,LEGNANI SRL,68,PAGANO,12936,via g. d'arezzo,56.37,1,true,true
+Pharmacy,MI1498,,BOIFAVA SRL,42,STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA,11112,via dei missaglia via boifava,106.22,1,true,true
+Pharmacy,MI1324,,LAGHI,72,MAGGIORE - MUSOCCO - CERTOSA,15132,via pareto,58.45,2,true,true
+Pharmacy,MI1632,,LIBERTY,1,DUOMO,11558,teatro alla scala,279.11,2,true,true
+Pharmacy,MI1485,,SAN GIORGIO,1,DUOMO,14188,via torino via palla,81.45,1,true,true
+Pharmacy,MI1733,,FOGLIA FASOLIS SRL,19,PADOVA - TURRO - CRESCENZAGO,12767,via padova via de la salle,95.36,2,true,true
+Pharmacy,MI1709,,NIGUARDA SRL,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,15414,p.za belloveso,67.43,1,true,true
+Pharmacy,MI1592,,EUROPA SNC DEL DR.MARIO DE CONCA & C,16,GORLA - PRECOTTO,12543,gorla m1,123.06,2,true,true
+Pharmacy,MI1996,,PROCACCINI SRL (EX MADONNINA),65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,10279,"via betti, 44",34.49,2,true,true
+Pharmacy,MI1730,,PLEBISCITI SAS DEL DOTTOR DANESI PIETRO & C.,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,DATEO,DATEO,28.62,,true,true
+Pharmacy,MI1893,,BERGOGNONE SRL,50,PORTA GENOVA,10853,p.za del rosario,98.55,1,true,true
+Pharmacy,MI0692,,A.F.M. N. 24,57,SAN SIRO,10411,via morgantini via capecelatro,89.63,1,true,true
+Pharmacy,MI0669,,A.F.M. N. 10,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,11994,niguarda nord,38.09,2,true,true
+Pharmacy,MI0672,,A.F.M. N. 81,65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,10288,via cechov via natta,235.57,1,true,true
+Pharmacy,MI1612,,OVIDIO SNC,30,TALIEDO - MORSENCHIO - Q.RE FORLANINI,19734,p.za ovidio,93.64,,true,true
+Pharmacy,MI1814,,BROLETTO,2,BRERA,11546,via cusani,140.05,1,true,true
+Pharmacy,MI0904,,A.F.M. N. 58,19,PADOVA - TURRO - CRESCENZAGO,12758,via palmanova via cesana,14.75,2,true,true
+Pharmacy,MI0656,,A.F.M. N. 07,56,FORZE ARMATE,10060,via f.ze armate via f.lli di dio,4.33,1,true,true
+Pharmacy,MI0025,,FARMACEUTICA BRAMANTE,22,CITTA' STUDI,12495,via pacini via ponzio,13.21,2,true,true
+Pharmacy,MI0699,,A.F.M. N. 30,33,ROGOREDO - SANTA GIULIA,16083,via pizzolpasso via del futurismo,71.28,2,true,true
+Pharmacy,MI1742,,BALDINI SNC & C.,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12188,lima m1,18.89,1,true,true
+Pharmacy,MI1921,,BALBONI SRL,43,TIBALDI,15371,g. da cermenate,89.55,1,true,true
+Pharmacy,MI1925,,CINQUE GIORNATE SNC-SUSA,26,XXII MARZO,17502,susa m4,88.85,,true,true
+Pharmacy,MI1967,,FARAM SNC DI ALBERO DUE SRL (EX MONZA),16,GORLA - PRECOTTO,12559,v.le monza via erodoto,57.67,1,true,true
+Pharmacy,MI0653,,A.F.M. N. 04,42,STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA,15369,volvinio,109.36,1,true,true
+Pharmacy,MI1892,,CASTELLI SNC DOTT.SSE GIORGIA PAVAN E DALILA PEDRETTI,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10724,p.za castelli,57.22,2,true,true
+Pharmacy,MI1541,,TURRO,19,PADOVA - TURRO - CRESCENZAGO,12549,via padova via mamiani,64.96,1,true,true
+Pharmacy,MI1945,,SAN MARTINO SRL,23,LAMBRATE - ORTICA,12715,v.le rimembranze di lambrate via rodano,94.62,1,true,true
+Pharmacy,MI1965,,CA' GRANDA SRL,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,11963,v.le ca' granda via val furva,149.38,2,true,true
+Pharmacy,MI2034,,URUGUAY SRL,65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,10299,via uruguay via kant,88.66,1,true,true
+Pharmacy,MI1962,,BIAZZI DELLA DR.SSA BIAZZI VALERIA SAS,49,GIAMBELLINO,10341,via giambellino via odazio,12.93,1,true,true
+Pharmacy,MI2007,,BLIGNY SAS DEL DR. GIOVANNI BRAMBILLA,5,PORTA VIGENTINA - PORTA LODOVICA,11752,v.le bligny,109.85,2,true,true
+Pharmacy,MI1023,,BOCCACCIO,7,MAGENTA - S. VITTORE,11263,p.za virgilio,200.68,2,true,true
+Pharmacy,MI2029,,DR.MAX MILANO PORTA NUOVA,9,PORTA GARIBALDI - PORTA NUOVA,15671,stazione garibaldi m2 m5,161.80,1,true,true
+Pharmacy,MI1674,,VENTO,65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,10292,via quarenghi via appennini,62.90,2,true,true
+Pharmacy,MI1747,,TOMMASEO SRL,68,PAGANO,11248,via ariosto,22.21,2,true,true
+Pharmacy,MI0732,,A.F.M. N. 41,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,12304,v.le suzzani v.le berbera,80.45,2,true,true
+Pharmacy,MI1900,,FULVIO TESTI FARMA ACQUISITION SRL,15,BICOCCA,17303,v.le testi via s. marcellina,49.73,,true,true
+Pharmacy,MI0946,,A.F.M. N. 73,53,LORENTEGGIO,10346,via inganni via lucarino,27.56,2,true,true
+Pharmacy,MI1758,,CARLO ALBERTO SAS & C.,1,DUOMO,11500,duomo m1 m3,61.68,1,true,true
+Pharmacy,MI0925,,A.F.M. N. 67,20,LORETO - CASORETTO - NOLO,12525,p.za durante,9.94,2,true,true
+Pharmacy,MI1666,,FERRARINI SNC,4,GUASTALLA,12090,p.za 5 giornate,15.13,2,true,true
+Pharmacy,MI1702,,ROSSETTO SNC & C.,22,CITTA' STUDI,12452,p.le gorini (istituto dei tumori),42.45,2,true,true
+Pharmacy,MI1407,,TRIVULZIO,52,BANDE NERE,GAMBARA,GAMBARA,57.75,2,true,true
+Pharmacy,MI0658,,A.F.M. N. 16,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,12003,via arganini v.le suzzani,47.96,2,true,true
+Pharmacy,MI1656,,FARAM SNC DI ALBERO DUE SRL (EX SUZZANI),14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,11966,v.le ca' granda v.le suzzani,67.72,2,true,true
+Pharmacy,MI2062,,UNICA BOVISASCA,81,BOVISASCA,11031,via nicolodi via tukory,161.52,2,true,true
+Pharmacy,MI0973,,A.F.M. N. 79,41,GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE,11106,via dei missaglia via de ruggiero,71.94,1,true,true
+Pharmacy,MI1935,,PIAVE,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12133,v.le piave,102.13,1,true,true
+Pharmacy,MI1979,,SALGARI SRL,28,UMBRIA - MOLISE - CALVAIRATE,12081,p.za salgari,23.84,1,true,true
+Pharmacy,MI2018,,CANONICA SNC DEL DR. PIERCARLO MANELLI,69,SARPI,11304,p.za morselli,47.62,1,true,true
+Pharmacy,MI1698,,ALLA PORTA SRL,5,PORTA VIGENTINA - PORTA LODOVICA,17712,c.so di p.ta romana p.le med. d'oro,50.35,,true,true
+Pharmacy,MI1929,,DEL NAVIGLIO SRL,50,PORTA GENOVA,15638,p.le delle milizie v.le troya,44.69,1,true,true
+Pharmacy,MI0912,,A.F.M. N. 62,22,CITTA' STUDI,12460,via amadeo via paladini,93.81,2,true,true
+Pharmacy,MI1687,,SAN GIOVANNI SAS DR.SSA COSTA ANTONELLA,11,ISOLA,11901,via pola via rosellini (inps),47.63,1,true,true
+Pharmacy,MI1605,,CALDARINI,22,CITTA' STUDI,12699,via bassini via golgi,166.68,2,true,true
+Pharmacy,MI2050,,MILANO VESUVIO,51,PORTA MAGENTA,10876,p.za vesuvio,117.68,1,true,true
+Pharmacy,MI2069,,SANT'EUSTORGIO DI DOTT.SSA NICLA NICOLOSI,6,PORTA TICINESE - CONCA DEL NAVIGLIO,11448,p.za s. eustorgio,10.33,1,true,true
+Pharmacy,MI1934,,LAMBRATE SRL,22,CITTA' STUDI,LAMBRATE FS,LAMBRATE FS,24.64,1,true,true
+Pharmacy,MI1857,,BARONA SAS,45,MONCUCCO - SAN CRISTOFORO,10801,p.za miani,38.37,1,true,true
+Pharmacy,MI1859,,DELLE QUERCE SAS,82,COMASINA,19912,via da novate via forni,127.88,,true,true
+Pharmacy,MI2020,,CONCORDIA DR.PAPA SRL,26,XXII MARZO,12137,p.za risorgimento,83.09,1,true,true
+Pharmacy,MI1834,,SEGRE,56,FORZE ARMATE,10377,via primaticcio via f.ze armate,8.35,1,true,true
+Pharmacy,MI1738,,SANTO SPIRITO SNC & C.,16,GORLA - PRECOTTO,VILLA S.G.,VILLA S.G.,120.28,2,true,true
+Pharmacy,MI1943,,DEL CORSO SRL,6,PORTA TICINESE - CONCA DEL NAVIGLIO,11200,c.so genova via ariberto,64.01,1,true,true
+Pharmacy,MI1695,,DEL CARMINE,2,BRERA,17392,lanza m2,132.65,,true,true
+Pharmacy,MI1720,,CASTOLDI DEI DOTTORI NATALE E SANTILLI SRL,11,ISOLA,11627,via porro lambertenghi,118.87,1,true,true
+Pharmacy,MI1648,,SACCHI SNC,26,XXII MARZO,12087,v.le monte nero via spartaco,173.24,2,true,true
+Pharmacy,MI1640,,RONDO' FARINI,79,DERGANO,15557,maciachini m3,38.19,2,true,true
+Pharmacy,MI1939,,MELOZZO DA FORLI' SAS DEI DOTTORI LEARCO E MARCELLO SANDI & C.,52,BANDE NERE,10404,p.za melozzo da forli',48.93,2,true,true
+Pharmacy,MI1784,,ARGONNE SAS DEL DR. MAZZANTINI MASSIMO & C.,25,CORSICA,12406,argonne m4,43.80,2,true,true
+Pharmacy,MI1877,,CAIROLI SRL,1,DUOMO,15004,cairoli m1,108.77,2,true,true
+Pharmacy,MI1983,,CANEVA SRL,69,SARPI,10999,p.za caneva,50.93,1,true,true
+Pharmacy,MI0661,,A.F.M. N. 03,22,CITTA' STUDI,12428,v.le romagna via pascoli,54.05,1,true,true
+Pharmacy,MI1671,,SAN LUIGI SNC SASSONE & C.,35,LODI - CORVETTO,12038,c.so lodi via scrivia,39.35,2,true,true
+Pharmacy,MI1977,,CAMPIONI SRL,52,BANDE NERE,10567,via d'alviano via tuberose,138.91,1,true,true
+Pharmacy,MI1756,,RAVIZZA SRL,58,DE ANGELI - MONTE ROSA,10905,p.za piemonte,32.04,2,true,true
+Pharmacy,MI1540,,OMERO,35,LODI - CORVETTO,12336,v.le omero via barabino,62.06,1,true,true
+Pharmacy,MI2054,,MILANO BAIRES,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12198,p.le loreto via pergolesi,169.88,1,true,true
+Pharmacy,MI1763,,DOTT. AUGUSTO DE LUCA SAS,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12132,v.le piave,21.73,2,true,true
+Pharmacy,MI2013,,SCALABRINI SRL SOCIETA' A SOCIO UNICO,49,GIAMBELLINO,10548,via giambellino via curio dentato,155.36,1,true,true
+Pharmacy,MI0879,,A.F.M. N. 51,19,PADOVA - TURRO - CRESCENZAGO,12796,via padova via rovigo,62.82,1,true,true
+Pharmacy,MI1905,,VENEZIA FARMA ACQUISITION SRL,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12970,p.ta venezia v.le tunisia,182.93,2,true,true
+Pharmacy,MI2045,,GESTIONI SAN GIUSEPPE SRL,7,MAGENTA - S. VITTORE,17779,s.ambrogio m2 m4,31.57,,true,true
+Pharmacy,MI1851,,GASTALDI DI DR.PIETRO BENZI & C. SNC,55,BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA,10158,via rismondo via canevari,199.18,1,true,true
+Pharmacy,MI0705,,A.F.M. N. 36,56,FORZE ARMATE,10066,via f.ze armate via nikolajevka,120.95,1,true,true
+Pharmacy,MI2066,,PADOVA SAS DEL DOTT. TOMMASO LATELLA E C.,19,PADOVA - TURRO - CRESCENZAGO,12756,via padova via bengasi,129.81,2,true,true
+Pharmacy,MI1545,,REMOTTI,26,XXII MARZO,12091,p.za 5 giornate,96.92,1,true,true
+Pharmacy,MI2021,,GENOVA SRL (EX MONTAGNA SNC),6,PORTA TICINESE - CONCA DEL NAVIGLIO,15376,tibaldi,42.03,1,true,true
+Pharmacy,MI0888,,A.F.M. N. 50,22,CITTA' STUDI,12491,via porpora via ampere,36.46,2,true,true
+Pharmacy,MI1363,,ALZAIA PAVESE SNC,44,PORTA TICINESE - CONCHETTA,11188,via segantini via gola,243.20,1,true,true
+Pharmacy,MI0927,,A.F.M. N. 70,46,BARONA,10789,v.le famagosta via lope de vega,94.72,1,true,true
+Pharmacy,MI1633,,LA PIAZZETTA SRL,76,QUARTO OGGIARO - VIALBA - MUSOCCO,10731,via lopez,88.40,2,true,true
+Pharmacy,MI0050,,COOP.FARM.SEMPIONE,69,SARPI,11262,arco della pace,42.43,2,true,true
+Pharmacy,MI2036,,SAN MATTEO SAS DELLA DR.SSA CASTAGNOLA LAURA ENRICA,60,STADIO - IPPODROMI,10412,via civitali via paravia,80.19,1,true,true
+Pharmacy,MI1886,,CARLO ERBA FARMA ACQUISITION SRL,1,DUOMO,DUOMO M1,DUOMO M1,18.57,1,true,true
+Pharmacy,MI1842,,SANT'AGOSTINO,7,MAGENTA - S. VITTORE,20127,de amicis - san vincenzo,27.70,,true,true
+Pharmacy,MI1831,,CONFALONIERI SNC,20,LORETO - CASORETTO - NOLO,12253,p.za morbegno,181.74,2,true,true
+Pharmacy,MI1959,,DEL PARCO SRL,18,CIMIANO - ROTTOLE - Q.RE FELTRE,12889,"via rizzoli, 45",46.50,2,true,true
+Pharmacy,MI1717,,PAOLO SARPI SRL,69,SARPI,11312,via bramante via sarpi,215.98,1,true,true
+Pharmacy,MI1866,,ANTICA FARMACIA DEL VERZIERE SNC,26,XXII MARZO,12392,v.le campania v.le corsica,34.54,2,true,true
+Pharmacy,MI1997,,BERTOLINI SAS DELLA DR.SSA BERTOLINI ISABELLA,41,GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE,11096,via dei missaglia (scuola santarosa),52.67,1,true,true
+Pharmacy,MI1725,,CALATAFIMI SAS,6,PORTA TICINESE - CONCA DEL NAVIGLIO,11459,p.ta lodovica,84.18,1,true,true
+Pharmacy,MI1796,,MOIZIO & C. SNC,26,XXII MARZO,12125,p.za emilia,10.42,2,true,true
+Pharmacy,MI1609,,PESENTI SRL,79,DERGANO,11348,p.za dergano,106.65,1,true,true
+Pharmacy,MI1821,,HUMANITAS TOSELLI & C. SNC,9,PORTA GARIBALDI - PORTA NUOVA,11875,via gioia via galvani,51.10,2,true,true
+Pharmacy,MI2003,,DR.MAX ITALIA SRL - INSUBRIA,28,UMBRIA - MOLISE - CALVAIRATE,12083,p.za insubria,56.49,1,true,true
+Pharmacy,MI0903,,A.F.M. N. 14,70,GHISOLFA,10990,via mac mahon v.le m.te ceneri,44.92,1,true,true
+Pharmacy,MI0929,,A.F.M. N. 72,70,GHISOLFA,11320,via cenisio via induno,109.28,1,true,true
+Pharmacy,MI1624,,CENTRALE SNC,1,DUOMO,12938,duomo m1 m3,30.83,1,true,true
+Pharmacy,MI0686,,A.F.M. N. 29,76,QUARTO OGGIARO - VIALBA - MUSOCCO,10496,via amoretti via lessona,70.08,2,true,true
+Pharmacy,MI1770,,LORENTEGGIO SNC,53,LORENTEGGIO,10350,via lorenteggio via inganni,46.17,1,true,true
+Pharmacy,MI1822,,IMPERIA SNC,45,MONCUCCO - SAN CRISTOFORO,11154,via spezia,33.19,1,true,true
+Pharmacy,MI0958,,A.F.M. N. 75,51,PORTA MAGENTA,10862,via washington via costanza,27.60,1,true,true
+Pharmacy,MI1969,,VIALBA SNC DEL DR. GHIRELLI PARIDE E C.,76,QUARTO OGGIARO - VIALBA - MUSOCCO,10486,via arsia via cogne,59.95,2,true,true
+Pharmacy,MI1901,,PASUBIO FARMA ACQUISITION SRL,9,PORTA GARIBALDI - PORTA NUOVA,17330,via rosales,212.43,,true,true
+Pharmacy,MI0053,,COOP.FARM.VERCELLI,51,PORTA MAGENTA,10898,p.le baracca,44.29,2,true,true
+Pharmacy,MI0971,,A.F.M. N. 77,20,LORETO - CASORETTO - NOLO,19720,gobetti,39.81,,true,true
+Pharmacy,MI1732,,RAIMONDI SNC & C.,2,BRERA,11592,moscova m2,48.23,1,true,true
+Pharmacy,MI1774,,BERTA SRL,20,LORETO - CASORETTO - NOLO,12258,pasteur m1,24.72,2,true,true
+Pharmacy,MI0649,,A.F.M. N. 02,48,RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO,10515,via giussani,55.12,2,true,true
+Pharmacy,MI2017,,SANT'ELENA SRL,61,QUARTO CAGNINO,10087,via marchesi via f.lli zoia,18.49,1,true,true
+Pharmacy,MI1919,,PENNAGLIA SAS DELLA DOTT.SSA ANNA MARIA PENNAGLIA,33,ROGOREDO - SANTA GIULIA,17071,via m.te cengio via freikofel,50.01,2,true,true
+Pharmacy,MI0928,,A.F.M. N. 71,25,CORSICA,12401,via sismondi p.za adigrat,132.52,2,true,true
+Pharmacy,MI1716,,OGGIARO SRL,76,QUARTO OGGIARO - VIALBA - MUSOCCO,10744,via simoni via pascarella,138.65,1,true,true
+Pharmacy,MI1895,,ORNATO SRL,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,11688,via ornato via terruggia,100.50,2,true,true
+Pharmacy,MI2024,,DEL LAZZARETTO DR. MOIA FABIO,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,11850,v.le vittorio veneto,184.25,1,true,true
+Pharmacy,MI0691,,A.F.M. N. 12,16,GORLA - PRECOTTO,12553,via astico,12.60,2,true,true
+Pharmacy,MI1688,,MELCHIORRE GIOIA,12,MACIACHINI - MAGGIOLINA,12234,via gioia via cagliero,6.32,2,true,true
+Pharmacy,MI0056,,COOP.FARM.COLOMBO,44,PORTA TICINESE - CONCHETTA,11194,p.le cantore,19.00,1,true,true
+Pharmacy,MI0657,,A.F.M. N. 11,79,DERGANO,11352,via livigno v.le jenner,70.60,2,true,true
+Pharmacy,MI0862,,A.F.M. N. 49,63,FIGINO,10038,figino,33.81,1,true,true
+Pharmacy,MI1812,,IGEA SRL,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12152,via c. morrone via modena,15.16,2,true,true
+Pharmacy,MI2063,,PICCHIOTTI SAS DI MAURIZIO STRAZIOTA,80,AFFORI,11373,via astesani v.le affori,65.57,2,true,true
+Pharmacy,MI2004,,DR.SSA DANIELA MATTALIA,51,PORTA MAGENTA,10834,bolivar m4,7.54,1,true,true
+Pharmacy,MI1952,,TADINI SAS DI FARMACIA CINQUE GIORNATE SNC DI VINCENZO E SILVIO BUCCARELLI,4,GUASTALLA,12128,tricolore m4,18.19,2,true,true
+Pharmacy,MI1741,,FOGLIA FASOLIS SRL,5,PORTA VIGENTINA - PORTA LODOVICA,20253,santa sofia,22.22,,true,true
+Pharmacy,MI1749,,AMORETTI DI CRUPI NICOLA & C. SNC,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10683,v.le espinasse via casella,9.96,2,true,true
+Pharmacy,MI1450,,METALLA SRL,27,PTA ROMANA,13156,v.le umbria via muratori,71.39,1,true,true
+Pharmacy,MI0922,,A.F.M. N. 66,67,PORTELLO,10942,p.le damiano chiesa,84.80,2,true,true
+Pharmacy,MI1708,,FARINI SNC DELLA DOTT.SSA ANTONIETTA TRAVIERSO E C,11,ISOLA,11612,via farini via valtellina,97.45,1,true,true
+Pharmacy,MI1824,,FRATELLI RAGNI SRL,81,BOVISASCA,11371,via l. modignani via comasina,14.59,2,true,true
+Pharmacy,MI1595,,LEGA LOMBARDA SRL,69,SARPI,11310,v.le elvezia (arena),52.88,2,true,true
+Pharmacy,MI1575,,MISSORI SAS DI ANGELA ED ELVIRA LIBERATORE,1,DUOMO,11511,missori m3,46.56,1,true,true
+Pharmacy,MI1837,,CORDUSIO SRL,1,DUOMO,11494,cordusio m1,32.75,1,true,true
+Pharmacy,MI2042,,SERRA SAS DELLA DR.SSA TAVEGGIA PAOLA,67,PORTELLO,10693,v.le serra via traiano,43.93,1,true,true
+Pharmacy,MI0889,,A.F.M. N. 56,46,BARONA,10791,"via s. paolino, 16",88.31,2,true,true
+Pharmacy,MI1992,,DEL MERCATO SRL,29,ORTOMERCATO,20297,m.te velino,4.93,,true,true
+Pharmacy,MI1802,,OLONA SAS DI FEDELI EMILIA E C.,7,MAGENTA - S. VITTORE,11212,v.le coni zugna via solari,14.06,2,true,true
+Pharmacy,MI1547,,CASTELVETRO SNC DI TAGLIABUE EMILIANO E POZZO FRANCESCA,69,SARPI,10963,domodossola fn m5,88.48,2,true,true
+Pharmacy,MI1815,,UMANITARIA SRL,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12155,via eustachi via maiocchi,125.57,2,true,true
+Pharmacy,MI2033,,DR.MAX MILANO ALTAMURA,57,SAN SIRO,10426,v.le aretusa via civitali,273.32,,true,true
+Pharmacy,MI0051,,COOP.FARM.BIGLI,1,DUOMO,MONTENAPOLEONE,MONTENAPOLEONE,37.73,1,true,true
+Pharmacy,MI0706,,A.F.M. N. 09,30,TALIEDO - MORSENCHIO - Q.RE FORLANINI,12638,via salomone p.za ovidio,103.47,2,true,true
+Pharmacy,MI1938,,SANTA TERESA SRL,7,MAGENTA - S. VITTORE,11208,p.le baracca,56.10,2,true,true
+Pharmacy,MI1504,,GALILEO SNC,9,PORTA GARIBALDI - PORTA NUOVA,12991,p.za s. gioachimo,64.96,2,true,true
+Pharmacy,MI1430,,ITALIA SNC,26,XXII MARZO,12142,c.so indipendenza via bronzetti,48.18,1,true,true
+Pharmacy,MI1736,,COMINA SRL,65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,10439,via uruguay via quarenghi,108.63,2,true,true
+Pharmacy,MI1930,,SANTA CHIARA SNC DOTTORI COLOMBO LEONI ALFREDO ANDREA AMRIA E ANNA GIULIA MARIA,18,CIMIANO - ROTTOLE - Q.RE FELTRE,12744,via pisani dossi via feltre,135.96,2,true,true
+Pharmacy,MI0659,,A.F.M. N. 15,27,PTA ROMANA,12050,p.le libia,128.97,2,true,true
+Pharmacy,MI2057,,MILANO PORTA ROMANA,5,PORTA VIGENTINA - PORTA LODOVICA,20253,santa sofia,78.33,,true,true
+Pharmacy,MI2028,,DR.MAX MILANO SAINT BON,56,FORZE ARMATE,10234,via f.ze armate via saint bon,61.84,2,true,true
+Pharmacy,MI1941,,SOLARI,50,PORTA GENOVA,10848,via solari via stendhal,67.65,1,true,true
+Pharmacy,MI1757,,COMASINA SAS DELLA DOTT.SSA VERCESI LAURA & C.,82,COMASINA,15905,l.go abbagnano (comasina m3),147.65,1,true,true
+Pharmacy,MI1984,,OLMETTO SAS DR. MARCO SELLE & C.,1,DUOMO,11450,vetra m4,110.30,1,true,true
+Pharmacy,MI1873,,CALO',21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12478,v.le romagna (piola m2),65.82,2,true,true
+Pharmacy,MI0947,,A.F.M. N. 74,57,SAN SIRO,10616,p.za m.te falterona,34.29,2,true,true
+Pharmacy,MI0744,,A.F.M. N. 27,7,MAGENTA - S. VITTORE,11263,p.za virgilio,47.59,2,true,true
+Pharmacy,MI1928,,VITRUVIO,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12173,via vitruvio,13.89,2,true,true
+Pharmacy,MI1701,,SARDEGNA SAS DEL DOTT. MAZZOLI DAVIDE,51,PORTA MAGENTA,10861,p.za sicilia,20.33,1,true,true
+Pharmacy,MI1890,,MILANO SIGRA SRL,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12179,via b. marcello,17.47,2,true,true
+Pharmacy,MI1809,,ORIO SNC,68,PAGANO,10949,p.za sei febbraio,79.17,1,true,true
+Pharmacy,MI0666,,A.F.M. N. 25,52,BANDE NERE,10384,via f.ze armate p.za bettini,66.25,1,true,true
+Pharmacy,MI0421,,A.F.M. N. 42,52,BANDE NERE,18074,frattini m4,31.11,,true,true
+Pharmacy,MI1626,,MACCIONI SNC,11,ISOLA,11616,via farini v.le stelvio,129.56,1,true,true
+Pharmacy,MI1964,,SANTA MARIA ALLA FONTANA DI MANNO MATILDE SAS,11,ISOLA,11636,v.le stelvio via lario,150.88,2,true,true
+Pharmacy,MI1881,,"GIULIO CESARE SNC DEI DR. ROBERTO,GABRIELE E FRANCESCA MARZANI",58,DE ANGELI - MONTE ROSA,10901,amendola m1,75.88,1,true,true
+Pharmacy,MI1279,,FORLANINI,30,TALIEDO - MORSENCHIO - Q.RE FORLANINI,12662,p.za artigianato (repetti m4),58.83,2,true,true
+Pharmacy,MI1854,,TOLSTOJ,49,GIAMBELLINO,10564,via giambellino via tolstoj,23.86,1,true,true
+Pharmacy,MI0698,,A.F.M. N. 32,12,MACIACHINI - MAGGIOLINA,11927,via cagliero v.le stefini,74.84,2,true,true
+Pharmacy,MI0972,,A.F.M. N. 78,25,CORSICA,12410,v.le argonne via marescalchi,40.33,2,true,true
+Pharmacy,MI1833,,SEMPIONE DI GHEZA & C. SNC,68,PAGANO,11261,arco della pace,34.59,2,true,true
+Pharmacy,MI0660,,A.F.M. N. 19,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10974,p.za prealpi,13.84,2,true,true
+Pharmacy,MI1746,,PRIMATICCIO,52,BANDE NERE,10357,via degli anemoni via primaticcio,81.15,1,true,true
+Pharmacy,MI1369,,LORETO SNC,20,LORETO - CASORETTO - NOLO,LORETO M1,LORETO M1,67.88,2,true,true
+Pharmacy,MI1944,,CHIESA ROSSA SAS DI NORBERTO LUMINI & C,42,STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA,14993,medeghino,75.04,2,true,true
+Pharmacy,MI0901,,A.F.M. N. 52,57,SAN SIRO,10615,p.le velasquez,46.85,1,true,true
+Pharmacy,MI1694,,BARNI,20,LORETO - CASORETTO - NOLO,17735,via f. aporti via lumiere,90.26,,true,true
+Pharmacy,MI1867,,PORPORA SRL,22,CITTA' STUDI,12496,via porpora via teodosio,93.53,2,true,true
+Pharmacy,MI1647,,SANT'ANTONIO SNC,80,AFFORI,18129,via p. rossi via grazioli,20.68,,true,true
+Pharmacy,MI1933,,LEONCAVALLO SRL,20,LORETO - CASORETTO - NOLO,12520,p.za durante,63.56,2,true,true
+Pharmacy,MI1783,,CINQUE GIORNATE SNC,26,XXII MARZO,12095,p.za 5 giornate,32.34,2,true,true
+Pharmacy,MI1913,,MODIANO CLARA SAS DR. PAGLIANO MAURIZIO MARIA & C,58,DE ANGELI - MONTE ROSA,10656,via albani p.za stuparich,31.32,2,true,true
+Pharmacy,MI1954,,NOVARA SRL (EX ARCHIMEDE),26,XXII MARZO,12113,via bronzetti via archimede,249.33,2,true,true
+Pharmacy,MI1119,,REMBRANDT,52,BANDE NERE,10418,via rembrandt via capecelatro,48.63,1,true,true
+Pharmacy,MI1670,,UMBRIA SAS DI U.POZZI & C.,26,XXII MARZO,12114,via arconati,17.48,1,true,true
+Pharmacy,MI1644,,CADORNA SNC,7,MAGENTA - S. VITTORE,16895,cadorna m1 m2,20.77,2,true,true
+Pharmacy,MI0693,,A.F.M. N. 33,83,BRUZZANO,11394,via s. arnaldo via pasta,167.97,2,true,true
+Pharmacy,MI0013,,PONTESEVESO,10,STAZIONE CENTRALE - PONTE SEVESO,17611,via schiaparelli via p.te seveso,51.33,,true,true
+Pharmacy,MI1887,,SANSOVINO SNC DELLA DOTT.SSA SANSONE FEDERICA & C.,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,17277,p.le bacone,150.13,,true,true
+Pharmacy,MI0497,,A.F.M. N. 18,65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,10109,"via appennini, 149",141.41,2,true,true
+Pharmacy,MI1707,,FARINATTI SNC,69,SARPI,11286,p.za gramsci,16.74,1,true,true
+Pharmacy,MI1441,,BRACCIO SRL,10,STAZIONE CENTRALE - PONTE SEVESO,11888,v.le tunisia,134.61,2,true,true
+Pharmacy,MI1817,,DEL DUOMO SAS DI HIPPO 41 FARMA SRL,1,DUOMO,11788,p.za fontana,50.78,1,true,true
+Pharmacy,MI0055,,COOP.FARM.BAIAMONTI,69,SARPI,11575,p.le baiamonti,52.26,1,true,true
+Pharmacy,MI0682,,A.F.M. N. 08,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,11964,v.le ca' granda via val furva,153.76,2,true,true
+Pharmacy,MI1976,,MONTI SRL,20,LORETO - CASORETTO - NOLO,12249,p.za morbegno,46.64,2,true,true
+Pharmacy,MI1990,,SANTA RITA SRL,35,LODI - CORVETTO,12343,via polesine p.le ferrara,131.41,1,true,true
+Pharmacy,MI2049,,LAFARMACIA.DELL'ORSO MILANO,2,BRERA,15741,via monte di pieta' via verdi,144.65,1,true,true
+Pharmacy,MI1904,,CORVETTO FARMA ACQUISITION SRL,35,LODI - CORVETTO,12351,corvetto m3,30.56,1,true,true
+Pharmacy,MI2070,,BOLIVAR SRL,49,GIAMBELLINO,10821,bolivar m4,39.34,1,true,true
+Pharmacy,MI1947,,DINAMICA SRL,45,MONCUCCO - SAN CRISTOFORO,10830,via l. il moro via pestalozzi,16.02,2,true,true
+Pharmacy,MI2046,,MILANO QUARENGHI,65,Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO,10296,via quarenghi (centro commerciale),132.06,2,true,true
+Pharmacy,MI2009,,FUSCO SAS DELLA DOTT.SSA MONTAGNANI MARELLI ROSSELLA E C.,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10696,via da panicale,78.82,2,true,true
+Pharmacy,MI2065,,CASTELMORRONE SRL,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12143,c.so indipendenza via bronzetti,39.73,2,true,true
+Pharmacy,MI1635,,VAL DI SOLE,38,VIGENTINO - Q.RE FATIMA,12986,via ripamonti via val di sole,89.72,2,true,true
+Pharmacy,MI2011,,AMBROSIANA SAS DI STEFANO SLAVIERO E C.,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12146,p.za adelaide di savoia,14.07,2,true,true
+Pharmacy,MI1768,,TICINESE FARMA SRL - DEL GENTILINO,6,PORTA TICINESE - CONCA DEL NAVIGLIO,11442,c.so s. gottardo via lagrange,36.08,1,true,true
+Pharmacy,MI2037,,CARNEVALE SNC DI CARNEVALE BONINO ANDREA,58,DE ANGELI - MONTE ROSA,10907,buonarroti m1,101.35,2,true,true
+Pharmacy,MI1838,,SENATO SRL,4,GUASTALLA,11846,c.so venezia via senato,33.72,2,true,true
+Pharmacy,MI1832,,SELINUNTE SAS,57,SAN SIRO,10606,p.le selinunte,36.81,2,true,true
+Pharmacy,MI1999,,VIGENTINO SRL,37,MORIVIONE,19724,via ripamonti via rutilia,7.97,,true,true
+Pharmacy,MI0878,,A.F.M. N. 53,45,MONCUCCO - SAN CRISTOFORO,10807,via binda via e. ponti,30.12,2,true,true
+Pharmacy,MI0701,,A.F.M. N. 38,41,GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE,11074,"via baroni, 13/a",64.16,1,true,true
+Pharmacy,MI1723,,BRIANZA SRL,10,STAZIONE CENTRALE - PONTE SEVESO,15961,v.le brianza,37.20,2,true,true
+Pharmacy,MI2064,,ANTICA FARMACIA DIANA SNC DEL DOTT. DAMIOLI SILVIO,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,18120,p.ta venezia m1,73.87,,true,true
+Pharmacy,MI2058,,MILANO SOLFERINO,2,BRERA,19661,via moscova via solferino,128.37,,true,true
+Pharmacy,MI0636,,A.F.M. N. 45,55,BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA,10028,via ontani via betulle,39.81,1,true,true
+Pharmacy,MI2053,,CAVALLI DI COZZI DOTT. PAOLO,77,BOVISA,11025,via broglio via vare',79.36,2,true,true
+Pharmacy,MI1986,,SANT'ANNA SNC  DELLA  DOTT.SSA CRISTINA BRAVI & DEL DOTT. MARIO UBEZIO,60,STADIO - IPPODROMI,10423,via paravia via zamagna,46.57,1,true,true
+Pharmacy,MI1931,,AMBRECK SRL,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12210,loreto m1 m2,17.75,1,true,true
+Pharmacy,MI0902,,A.F.M. N. 55,79,DERGANO,17954,via imbonati via bovio,49.60,,true,true
+Pharmacy,MI1908,,CONI ZUGNA FARMA SRL,44,PORTA TICINESE - CONCHETTA,11187,p.le cantore,147.28,2,true,true
+Pharmacy,MI0655,,A.F.M. N. 06,62,QUINTO ROMANO,10180,p.za madonna della provvidenza,92.15,1,true,true
+Pharmacy,MI2012,,CASSIODORO SRL,68,PAGANO,10919,via rossetti l.go camus,69.50,1,true,true
+Pharmacy,MI0057,,COOP.FARM.LAMARMORA,4,GUASTALLA,11762,crocetta m3,11.83,2,true,true
+Pharmacy,MI1539,,MEAZZA SAS DEL DOTT. LORENZO LOCATELLI & C.,52,BANDE NERE,10573,p.le siena,188.81,1,true,true
+Pharmacy,MI1844,,NUOVA FARMACIA FATEBENEFRATELLI SRL,2,BRERA,11864,v.le monte santo,30.90,1,true,true
+Pharmacy,MI2023,,REPUBBLICA SRL,10,STAZIONE CENTRALE - PONTE SEVESO,REPUBBLICA,REPUBBLICA,85.55,1,true,true
+Pharmacy,MI1993,,SAN LUCA SNC DI NUOVA FARMACIA SAN LUCA SNC DEL DR.DANIELE SOFI E C.,79,DERGANO,11336,via maffucci via baldinucci,104.84,2,true,true
+Pharmacy,MI2002,,AL PONTE SAS DEL DR. FRIGERIO GUIDO E C.,17,ADRIANO,12879,p.za costantino,53.06,1,true,true
+Pharmacy,MI2005,,DELLA CITTADELLA SAS DELLA DR.SSA FILOMENI MARIACRISTINA,6,PORTA TICINESE - CONCA DEL NAVIGLIO,15078,colonne di s.lorenzo,18.80,1,true,true
+Pharmacy,MI1963,,HIPPO 80 FARMA SRL - EUSTACHI,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12194,via plinio via eustachi,71.32,2,true,true
+Pharmacy,MI2032,,QT8 SAS DEL DOTT. IVAN MASTROTA & C.,66,QT 8,10657,v.le serra v.le scarampo,166.33,1,true,true
+Pharmacy,MI1951,,COMOTTI DR.SSA CATERINA GRAFFI SRL,2,BRERA,11840,p.za cavour,21.56,2,true,true
+Pharmacy,MI1451,,CARLETTI SAS,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,11014,via mac mahon via bramantino,33.51,2,true,true
+Pharmacy,MI1902,,BENU RETAIL SRL - LARGO AUGUSTO,1,DUOMO,11797,l.go augusto,44.06,1,true,true
+Pharmacy,MI1731,,ANTICA FARMACIA DI BRERA SRL,2,BRERA,11550,p.za s. marco,96.17,1,true,true
+Pharmacy,MI0052,,COOP.FARM.S.AGNESE,1,DUOMO,11241,c.so magenta via nirone,96.04,1,true,true
+Pharmacy,MI1826,,NUOVA FARMACIA BERETTA SNC,5,PORTA VIGENTINA - PORTA LODOVICA,11755,via ripamonti v.le sabotino,20.37,2,true,true
+Pharmacy,MI0921,,A.F.M. N. 65,26,XXII MARZO,12390,p.za grandi,205.29,1,true,true
+Pharmacy,MI1897,,TONALE DOTT. RIBALDONE GIAMPIERO E CIATTINI ROBERTO SNC,10,STAZIONE CENTRALE - PONTE SEVESO,11917,sondrio m3,59.22,2,true,true
+Pharmacy,MI1206,,GIAMBELLINO,49,GIAMBELLINO,10556,via brunelleschi,11.63,1,true,true
+Pharmacy,MI0639,,A.F.M. N. 82,19,PADOVA - TURRO - CRESCENZAGO,12757,via padova via bengasi,47.88,2,true,true
+Pharmacy,MI1627,,SAN CRISTOFORO SAS,49,GIAMBELLINO,20159,s.cristoforo m4,46.31,,true,true
+Pharmacy,MI1874,,XXII MARZO SAS DI VINCENZO BUCCARELLI E C,26,XXII MARZO,12099,p.za s.maria del suffragio,24.65,1,true,true
+Pharmacy,MI0696,,A.F.M. N. 35,19,PADOVA - TURRO - CRESCENZAGO,14860,turro m1,165.39,2,true,true
+Pharmacy,MI0665,,A.F.M. N. 23,25,CORSICA,12405,v.le corsica via lomellina,166.61,1,true,true
+Pharmacy,MI1853,,GRECO,13,GRECO - SEGNANO,12275,v.le rimembranze di greco,9.95,2,true,true
+Pharmacy,MI0910,,A.F.M. N. 60,36,SCALO ROMANA,12024,via d'agrate p.za angilberto ii,31.06,1,true,true
+Pharmacy,MI2059,,DR.MAX MILANO BAUSAN,77,BOVISA,12978,bausan,41.52,2,true,true
+Pharmacy,MI1869,,REALE,1,DUOMO,11516,duomo m1 m3,100.72,1,true,true
+Pharmacy,MI1662,,MAZZOLENI SRL,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,12197,p.le loreto via pergolesi,25.91,1,true,true
+Pharmacy,MI1620,,CADORE,26,XXII MARZO,12063,via cadore via spartaco,25.23,2,true,true
+Pharmacy,MI1970,,DELLA TORRETTA MILANO SAS DI DR.SSA MONICA ROCCHI E C.,42,STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA,11126,via fra cristoforo via renzo e lucia,40.83,2,true,true
+Pharmacy,MI1937,,NAZIONALE SRL,44,PORTA TICINESE - CONCHETTA,11193,c.so colombo p.le cantore,94.02,2,true,true
+Pharmacy,MI1927,,PALMANOVA SAS DR.SSA BARBARA GALLO & C.,18,CIMIANO - ROTTOLE - Q.RE FELTRE,12736,udine m2,34.95,2,true,true
+Pharmacy,MI2016,,TRIPHARMA SAS DI MANELLI MARIA LUISA & C.,58,DE ANGELI - MONTE ROSA,17396,via silva via m.te rosa,25.91,,true,true
+Pharmacy,MI0886,,A.F.M. N. 46,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10467,via gallarate via tibullo,68.50,1,true,true
+Pharmacy,MI1806,,LODI SNC DEI DR.CRISTINA E LUCA DEMARTINI,27,PTA ROMANA,15441,p.ta romana m3,35.51,2,true,true
+Pharmacy,MI1888,,RANZONI FARMA ACQUISITION SRL,58,DE ANGELI - MONTE ROSA,10628,p.za ghirlandaio,31.57,1,true,true
+Pharmacy,MI1715,,PAVESIO SAS DI G. GASTALDI & C.,20,LORETO - CASORETTO - NOLO,12527,via padova via chavez,34.64,1,true,true
+Pharmacy,MI1801,,MONTE ROSA SAS DEI DOTTORI ANTONIOLI ANDREA MARIA E ANTONIOLI CARLO MARIA,58,DE ANGELI - MONTE ROSA,16707,via m.te rosa via pagliano,66.65,1,true,true
+Pharmacy,MI1880,,SANTA GIULIA SAS,30,TALIEDO - MORSENCHIO - Q.RE FORLANINI,12618,via bonfadini via sordello,80.89,2,true,true
+Pharmacy,MI2027,,CARROBBIO SRL,1,DUOMO,11481,carrobbio,68.48,2,true,true
+Pharmacy,MI0045,,COOP.FARM.DUOMO,1,DUOMO,11505,duomo m1 m3,17.98,1,true,true
+Pharmacy,MI1750,,WASHINGTON SAS DELLA DR.SSA CELI ELENA SERENA FRANCESCA,51,PORTA MAGENTA,10866,via washington via pirandello,136.82,1,true,true
+Pharmacy,MI1677,,PONTE VITTORIA SNC,1,DUOMO,11799,l.go augusto,80.53,2,true,true
+Pharmacy,MI2000,,NOSTRA SIGNORA DI MONTALLEGRO SRL,48,RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO,10501,v.le faenza via campari,182.02,2,true,true
+Pharmacy,MI1685,,MONTEGANI SRL UNIPERSONALE,42,STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA,11135,via montegani via neera,70.85,1,true,true
+Pharmacy,MI1735,,IMBRIANI SRL,77,BOVISA,11333,via imbriani via scalvini,115.54,2,true,true
+Pharmacy,MI0595,,TOSCHI,25,CORSICA,12400,v.le corsica via battistotti sassi,55.08,1,true,true
+Pharmacy,MI1863,,CORSO VERCELLI,68,PAGANO,10915,c.so vercelli via cherubini,45.50,2,true,true
+Pharmacy,MI0047,,COOP.FARM.VITTORIA,4,GUASTALLA,11820,c.so p.ta vittoria (camera del lavoro),31.14,1,true,true
+Pharmacy,MI1646,,QUAI,41,GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE,16911,via dei missaglia via de ruggiero,174.90,1,true,true
+Pharmacy,MI1918,,SANITAS SAS DI ZAMPRONI MONICA,2,BRERA,11531,acquario civico,171.24,1,true,true
+Pharmacy,MI1955,,TICINESE FARMA SRL - STAZIONE PORTA GENOVA,44,PORTA TICINESE - CONCHETTA,11181,p.ta genova m2,28.66,2,true,true
+PublicHealthCentre,002294,,PUBLIC FAMILY COUNSELLING CENTRE,49,GIAMBELLINO,10328,via lorenteggio via inganni,127.54,1,true,true
+PublicHealthCentre,002320,,PUBLIC FAMILY COUNSELLING CENTRE,22,CITTA' STUDI,12503,via bassini via golgi,95.89,1,true,true
+PublicHealthCentre,002258,,PUBLIC FAMILY COUNSELLING CENTRE,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10713,via c. marcello via m.te altissimo,74.51,2,true,true
+PublicHealthCentre,002323,,PUBLIC FAMILY COUNSELLING CENTRE,35,LODI - CORVETTO,12041,brenta m3,222.45,1,true,true
+PublicHealthCentre,002321,,PUBLIC FAMILY COUNSELLING CENTRE,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,10684,via grosotto p.le accursio,75.99,2,true,true
+PublicHealthCentre,002257,,PUBLIC FAMILY COUNSELLING CENTRE,82,COMASINA,17101,via val di bondo,105.58,2,true,true
+PublicHealthCentre,002322,,PUBLIC FAMILY COUNSELLING CENTRE,76,QUARTO OGGIARO - VIALBA - MUSOCCO,10476,l.go boccioni,256.40,2,true,true
+PublicHealthCentre,002298,,PUBLIC FAMILY COUNSELLING CENTRE,30,TALIEDO - MORSENCHIO - Q.RE FORLANINI,12842,via fantoli via mecenate,6.29,2,true,true
+PublicHealthCentre,002292,,PUBLIC FAMILY COUNSELLING CENTRE,57,SAN SIRO,17360,segesta m5,75.52,,true,true
+PublicHealthCentre,002256,,PUBLIC FAMILY COUNSELLING CENTRE,14,NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI,11673,via cherasco,16.19,2,true,true
+PublicHealthCentre,002324,,PUBLIC FAMILY COUNSELLING CENTRE,4,GUASTALLA,11821,v.le regina margherita via lamarmora,125.87,1,true,true
+PublicHealthCentre,002229,,FAMILY COUNSELLING CENTRE VILLA MARELLI,12,MACIACHINI - MAGGIOLINA,MARCHE,MARCHE,30.07,1,true,true
+PublicHealthCentre,002326,,PUBLIC FAMILY COUNSELLING CENTRE,21,BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE,16509,P.za Aspromonte,57.17,,true,true
+PublicHealthCentre,002293,,PUBLIC FAMILY COUNSELLING CENTRE,55,BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA,10159,via rismondo via canevari,151.53,1,true,true
+PublicHealthCentre,002295,,PUBLIC FAMILY COUNSELLING CENTRE,48,RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO,20133,via della ferrera,7.91,,true,true
+PublicHealthCentre,002325,,PUBLIC FAMILY COUNSELLING CENTRE,16,GORLA - PRECOTTO,12554,gorla m1,185.02,2,true,true
+PublicHealthCentre,002261,,PUBLIC FAMILY COUNSELLING CENTRE,41,GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE,11076,"via baroni, 36",68.66,2,true,true
+NursingHome,321000492,,IPPOCRATE 1,81,BOVISASCA,19630,via ippocrate via ciccotti,90.18,,true,true
+NursingHome,321000179,,SANTA GIULIA,23,LAMBRATE - ORTICA,15274,via pitteri via tanzi,28.06,1,true,true
+NursingHome,321000536,,SANTA MARTA,48,RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO,10515,via giussani,109.41,2,true,true
+NursingHome,321000286,,SANTA LUCIA,51,PORTA MAGENTA,10842,via foppa via stendhal,24.60,1,true,true
+NursingHome,321000083,,EMMAUS,41,GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE,11086,"via baroni, 59",91.60,2,true,true
+NursingHome,321000503,,VILLA ANTONIETTA,53,LORENTEGGIO,10353,via dei ciclamini via degli anemoni,60.20,1,true,true
+NursingHome,321000374,,BAGGIO,55,BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA,10152,via rismondo via da baggio,325.84,2,false,true
+NursingHome,321000096,,ISTITUTO GERIATRICO PIERO REDAELLI,52,BANDE NERE,10568,via d'alviano via tuberose,102.70,1,true,true
+NursingHome,321000373,,IL PARCO DELLE CAVE,55,BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA,10152,via rismondo via da baggio,325.84,2,false,true
+NursingHome,321000289,,NUOVA CASA FAMIGLIA,4,GUASTALLA,11853,c.so monforte via donizetti,226.85,1,true,true
+NursingHome,321000314,,SAN GIORGIO,9,PORTA GARIBALDI - PORTA NUOVA,11590,via farini via ferrari,184.74,2,true,true
+NursingHome,321000602,,ISTITUTO PALAZZOLO,71,VILLAPIZZONE - CAGNOLA - BOLDINASCO,17775,istituto palazzolo,22.54,,true,true
+NursingHome,321000375,,FAMAGOSTA,46,BARONA,10781,ospedale san paolo,60.95,1,true,true

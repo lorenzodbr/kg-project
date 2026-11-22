@@ -1,0 +1,5 @@
+entity_type,entity_id,entity_subcode,entity_name,source_file,source_row,reason
+Hospital,30096,,CASA DI CURA DEL POLICLINICO - MILANO,beds_translated.csv,2,missing longitude or latitude
+Hospital,30922,,"FOND.IRCCS ""ISTIT.NAZ.LE TUMORI""MILANO",beds_translated.csv,3,missing longitude or latitude
+Hospital,30923,,FOND.IRCCS IST.NAZ.NEUROLOGICO C.BESTA-M,beds_translated.csv,18,missing longitude or latitude
+NursingHome,321000532,,RESIDENZE SACCARDO A,rsa_translated.csv,3,missing longitude or latitude
