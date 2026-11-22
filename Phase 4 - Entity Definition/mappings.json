@@ -1,0 +1,172 @@
+[
+  {
+    "source": "beds_translated.csv",
+    "target_entity": "Hospital",
+    "identifier": [
+      "facility_code",
+      "facility_subcode"
+    ],
+    "data_properties": [
+      "facilityName",
+      "address",
+      "postcode",
+      "municipio",
+      "nilId",
+      "nilName",
+      "latitude",
+      "longitude",
+      "facilityType",
+      "year",
+      "numWards",
+      "bedsOrdinaryStay",
+      "bedsPayingStay",
+      "bedsDayHospital",
+      "bedsDaySurgery",
+      "bedsTotal"
+    ],
+    "object_properties": [
+      "locatedIn",
+      "managedBy",
+      "hasSpecialty"
+    ]
+  },
+  {
+    "source": "Pharmacy_translated.csv",
+    "target_entity": "Pharmacy",
+    "identifier": [
+      "pharmacy_code"
+    ],
+    "data_properties": [
+      "pharmacyName",
+      "address",
+      "postcode",
+      "municipio",
+      "nilId",
+      "nilName",
+      "latitude",
+      "longitude"
+    ],
+    "object_properties": [
+      "locatedIn"
+    ]
+  },
+  {
+    "source": "PublicHealthCentres_translated.csv",
+    "target_entity": "PublicHealthCentre",
+    "identifier": [
+      "facility_code"
+    ],
+    "data_properties": [
+      "facilityName",
+      "address",
+      "postcode",
+      "municipio",
+      "nilId",
+      "nilName",
+      "latitude",
+      "longitude"
+    ],
+    "object_properties": [
+      "locatedIn"
+    ]
+  },
+  {
+    "source": "rsa_translated.csv",
+    "target_entity": "NursingHome",
+    "identifier": [
+      "facility_code"
+    ],
+    "data_properties": [
+      "facilityName",
+      "address",
+      "postcode",
+      "municipio",
+      "nilId",
+      "nilName",
+      "latitude",
+      "longitude",
+      "authorisedPlaces",
+      "accreditedNonContractedPlaces"
+    ],
+    "object_properties": [
+      "locatedIn"
+    ]
+  },
+  {
+    "source": "NIL.csv",
+    "target_entity": "Neighbourhood",
+    "identifier": [
+      "ID_NIL"
+    ],
+    "data_properties": [
+      "nilName",
+      "shapeLength",
+      "shapeArea"
+    ],
+    "object_properties": [
+      "partOf"
+    ]
+  },
+  {
+    "source": "agency.txt",
+    "target_entity": "TransportOperator",
+    "identifier": [
+      "agency_id"
+    ],
+    "data_properties": [
+      "agencyName",
+      "agencyURL",
+      "agencyTimezone"
+    ],
+    "object_properties": []
+  },
+  {
+    "source": "routes.txt",
+    "target_entity": "Route",
+    "identifier": [
+      "route_id"
+    ],
+    "data_properties": [
+      "routeShortName",
+      "routeLongName",
+      "routeType",
+      "routeColor"
+    ],
+    "object_properties": [
+      "operatedBy"
+    ]
+  },
+  {
+    "source": "stops.txt",
+    "target_entity": "Stop",
+    "identifier": [
+      "stop_id"
+    ],
+    "data_properties": [
+      "stopName",
+      "stopCode",
+      "latitude",
+      "longitude",
+      "wheelchairBoarding",
+      "parentStation"
+    ],
+    "object_properties": [
+      "locatedIn"
+    ]
+  },
+  {
+    "source": "Computed/nearest_stop.csv",
+    "target_entity": "HealthcareFacility",
+    "identifier": [
+      "entity_type",
+      "entity_id",
+      "entity_subcode"
+    ],
+    "data_properties": [
+      "distanceToNearestStop"
+    ],
+    "object_properties": [
+      "nearStop"
+    ]
+  }
+]

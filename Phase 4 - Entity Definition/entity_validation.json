@@ -1,0 +1,34 @@
+{
+  "entity_triples": 53654,
+  "entities_by_class": {
+    "City": 1,
+    "HealthAuthority": 16,
+    "HealthcareFacility": 485,
+    "Hospital": 32,
+    "MedicalSpecialty": 51,
+    "Municipio": 9,
+    "Neighbourhood": 88,
+    "NursingHome": 14,
+    "Pharmacy": 422,
+    "PublicHealthCentre": 17,
+    "Route": 170,
+    "Stop": 4919,
+    "TransportOperator": 1
+  },
+  "entity_count": 5740,
+  "source_entity_hospital_records": 32,
+  "source_entity_pharmacies": 422,
+  "source_entity_public_health_centres": 17,
+  "source_entity_nursing_homes": 14,
+  "source_entity_stops": 4919,
+  "source_entity_routes": 170,
+  "source_entity_nil": 88,
+  "accessibility_nearest_rows": 481,
+  "accessibility_threshold_pairs": 15658,
+  "accessibility_skipped": 4,
+  "missing_route_stop_mapping": "stop_times.txt is absent; no route-stop links were inferred",
+  "files": {
+    "mappings": "Phase 4 - Entity Definition\\mappings.json",
+    "entity_graph": "Phase 4 - Entity Definition\\entity_graph.ttl"
+  }
+}
